@@ -2,7 +2,7 @@
 Instacart Market Basket Analysis 
 by Gemy Pham 
 
-## Introduction: 
+## Motivation
 
 Nowadays, the retail & e-commerce sectors are experiencing dramatic changes as more and more Americans prefer online shopping.  Common business problems that online retailers face including: how to implement more data-driven customer retention strategy, how to understand the customer preferences by figuring out who they are, what they want. At the same time, these online businesses are also obtaining millions of transactions data. Data scientists thus could leverage this big data to help business gain more values. 
 
